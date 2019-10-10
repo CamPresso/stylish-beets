@@ -1,0 +1,10 @@
+html {
+  background-color: #c9b5ab;
+  font-family: "PT Sans", sans-serif;
+}
+
+h1, h2 {
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-style: bold;
+}
